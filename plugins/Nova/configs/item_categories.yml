@@ -1,0 +1,10 @@
+categories:
+- icon: nova:wrench
+  name: menu.nova.items.category.misc
+  items:
+  - nova:wrench
+  - nova:speed_upgrade
+  - nova:efficiency_upgrade
+  - nova:energy_upgrade
+  - nova:range_upgrade
+  - nova:fluid_upgrade

@@ -1,0 +1,457 @@
+[14:49:12] [ServerMain/INFO]: Building unoptimized datafixer
+[14:49:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:49:19] [ServerMain/INFO]: Loaded 7 recipes
+[14:49:23] [Server thread/INFO]: Starting minecraft server version 1.19
+[14:49:23] [Server thread/INFO]: Loading properties
+[14:49:23] [Server thread/INFO]: This server is running CraftBukkit version 3551-Spigot-14a2382-9a8e080 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[14:49:23] [Server thread/INFO]: Debug logging is disabled
+[14:49:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:49:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:49:23] [Server thread/INFO]: Default game type: SURVIVAL
+[14:49:23] [Server thread/INFO]: Generating keypair
+[14:49:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:24] [Server thread/INFO]: Using epoll channel type
+[14:49:26] [Server thread/INFO]: [Nova] Loading 15 libraries... please wait
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.0/kotlin-stdlib-jdk8-1.7.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.7.0/kotlin-stdlib-1.7.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.7.0/kotlin-stdlib-jdk7-1.7.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlin/kotlin-reflect/1.7.0/kotlin-reflect-1.7.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/xyz/xenondevs/particle/1.8/particle-1.8.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/me/xdrop/fuzzywuzzy/1.4.0/fuzzywuzzy-1.4.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/net/lingala/zip4j/zip4j/2.11.1/zip4j-2.11.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-server-core-jvm/2.0.2/ktor-server-core-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-utils-jvm/2.0.2/ktor-utils-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-io-jvm/2.0.2/ktor-io-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-http-jvm/2.0.2/ktor-http-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-serialization-jvm/2.0.2/ktor-serialization-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-events-jvm/2.0.2/ktor-events-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.6.1/kotlinx-coroutines-jdk8-1.6.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/com/typesafe/config/1.4.1/config-1.4.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.1/kotlinx-coroutines-core-jvm-1.6.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.21/kotlin-stdlib-common-1.6.21.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-server-netty-jvm/2.0.2/ktor-server-netty-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-server-host-common-jvm/2.0.2/ktor-server-host-common-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-codec-http2/4.1.77.Final/netty-codec-http2-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-codec-http/4.1.77.Final/netty-codec-http-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/eclipse/jetty/alpn/alpn-api/1.1.3.v20160715/alpn-api-1.1.3.v20160715.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport-native-kqueue/4.1.77.Final/netty-transport-native-kqueue-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport-classes-kqueue/4.1.77.Final/netty-transport-classes-kqueue-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport-native-epoll/4.1.77.Final/netty-transport-native-epoll-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-client-core-jvm/2.0.2/ktor-client-core-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-websocket-serialization-jvm/2.0.2/ktor-websocket-serialization-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.6.1/kotlinx-coroutines-slf4j-1.6.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-client-cio-jvm/2.0.2/ktor-client-cio-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-http-cio-jvm/2.0.2/ktor-http-cio-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-network-jvm/2.0.2/ktor-network-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-websockets-jvm/2.0.2/ktor-websockets-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-network-tls-jvm/2.0.2/ktor-network-tls-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-client-content-negotiation-jvm/2.0.2/ktor-client-content-negotiation-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/io/ktor/ktor-serialization-gson-jvm/2.0.2/ktor-serialization-gson-jvm-2.0.2.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-resolver-provider/3.8.5/maven-resolver-provider-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-model/3.8.5/maven-model-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-model-builder/3.8.5/maven-model-builder-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-builder-support/3.8.5/maven-builder-support-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.5/org.eclipse.sisu.inject-0.3.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/maven-repository-metadata/3.8.5/maven-repository-metadata-3.8.5.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-api/1.6.3/maven-resolver-api-1.6.3.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-spi/1.6.3/maven-resolver-spi-1.6.3.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-util/1.6.3/maven-resolver-util-1.6.3.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-impl/1.6.3/maven-resolver-impl-1.6.3.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-connector-basic/1.8.0/maven-resolver-connector-basic-1.8.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/maven/resolver/maven-resolver-transport-http/1.8.0/maven-resolver-transport-http-1.8.0.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar
+[14:49:28] [Server thread/INFO]: [Nova] Loaded library /home/mc1.19/libraries/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36.jar
+[14:49:28] [Server thread/INFO]: [ZMusic] Loading ZMusic v2.5.3
+[14:49:28] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.1
+[14:49:28] [Server thread/INFO]: [Nova] Loading Nova v0.9.8
+[14:49:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:49:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:49:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:49:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:49:28] [Server thread/INFO]: Preparing level "world"
+[14:49:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:49:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:49:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:49:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:49:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:29] [Server thread/INFO]: Mob Spawn Range: 6
+[14:49:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:49:29] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:29] [Server thread/INFO]: View Distance: 6
+[14:49:29] [Server thread/INFO]: Simulation Distance: 6
+[14:49:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:29] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:49:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:49:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:49:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:49:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:49:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:31] [Server thread/INFO]: Mob Spawn Range: 6
+[14:49:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:49:31] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:31] [Server thread/INFO]: View Distance: 6
+[14:49:31] [Server thread/INFO]: Simulation Distance: 6
+[14:49:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:49:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:49:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:49:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:49:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:49:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:49:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:49:55] [Server thread/INFO]: Mob Spawn Range: 6
+[14:49:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:49:55] [Server thread/INFO]: Max TNT Explosions: 100
+[14:49:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:49:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:49:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:49:55] [Server thread/INFO]: View Distance: 6
+[14:49:55] [Server thread/INFO]: Simulation Distance: 6
+[14:49:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:49:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:49:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:49:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:49:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[14:50:15] [Server thread/INFO]: Time elapsed: 20100 ms
+[14:50:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:26] [Server thread/INFO]: Time elapsed: 10471 ms
+[14:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:50:34] [Server thread/INFO]: Time elapsed: 7900 ms
+[14:50:34] [Server thread/INFO]: [ZMusic] Enabling ZMusic v2.5.3
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m正在加载中....[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m正在注册Mod通信频道...[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m-- [m[[0;33;1mAllMusic[m][0;32;1m 频道注册完毕.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m-- [m[[0;33;1mZMusic Mod[m][0;32;1m 频道注册完毕.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;31;1m-- [m[[0;33;1mAudioBuffer[m][0;31;1m 服务端大于1.12，频道注册取消.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;31;1m未找到[0;33;1mPlaceholderAPI[0;31;1m, [0;33;1mPlaceholderAPI[0;31;1m相关功能不生效.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;31;1m未找到Vault, 经济相关功能不生效.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;31;1m未找到ViaVersion, 高版本转发功能不生效.[m
+[14:50:34] [Server thread/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m成功加载配置文件![m
+[14:50:34] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.1
+[14:50:34] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_19_R1[32;1m, using [33;1mMappingSpigotSkinRefresher[32;1m.[0;39m[m
+[14:50:35] [Server thread/INFO]: [Nova] Enabling Nova v0.9.8
+[14:50:36] [Server thread/INFO]: [Nova] Loading default config
+[14:50:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:50:37] [Async Nova Worker - 2/INFO]: [Nova] Initializing ItemManager
+[14:50:37] [Async Nova Worker - 1/INFO]: [Nova] Initializing ArmorEquipListener
+[14:50:37] [Server thread/INFO]: Done (68.394s)! For help, type "help"
+[14:50:37] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;31;1m登录失败：请在配置文件设置账号密码。[m
+[14:50:37] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m正在检查更新...[m
+[14:50:37] [Server thread/INFO]: [Nova] Initializing ChunkLoadManager
+[14:50:37] [Server thread/INFO]: [Nova] Initializing NetworkManager
+[14:50:37] [Server thread/INFO]: [Nova] Registering packet handlers
+[14:50:37] [Server thread/INFO]: [Nova] Loading Addons...
+[14:50:37] [Async Nova Worker - 26/INFO]: [Nova] Initializing FakeArmorStandManager
+[14:50:37] [Async Nova Worker - 3/INFO]: [Nova] Loading configs
+[14:50:37] [Async Nova Worker - 17/INFO]: [Nova] Loading resources
+[14:50:38] [Async Nova Worker - 25/INFO]: [Nova] Injecting translations
+[14:50:38] [User Authenticator #1/INFO]: UUID of player Tony_Nan is 1a2f1f9f-a188-3176-b5b6-423fba835d62
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m已是最新版本![m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m初始化语言系统...[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m语言文件zh_CN[中文 (中国)]加载完成[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m语言文件作者: 真心[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m插件作者: 真心[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m博客：www.zhenxin.xyz[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1mQQ：1307993674[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m插件交流群：1032722724[m
+[14:50:38] [Craft Scheduler Thread - 0/INFO]: [0;36;1mZMusic [0;33;1m>>> [m[0;32;1m插件已加载完成![m
+[14:50:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@77387e79[id=1a2f1f9f-a188-3176-b5b6-423fba835d62,name=Tony_Nan,properties={},legacy=false] (/60.176.66.190:55245) lost connection: Disconnected
+[14:50:39] [Server thread/INFO]: [Nova] Initializing Addons...
+[14:50:39] [Server thread/INFO]: [Nova] Loading recipes
+[14:50:40] [Server thread/INFO]: [Nova] Initializing VanillaTileEntityManager
+[14:50:40] [Server thread/INFO]: [Nova] Initializing AttachmentManager
+[14:50:40] [Server thread/INFO]: [Nova] Initializing AbilityManager
+[14:50:40] [Async Nova Worker - 22/INFO]: [Nova] Initializing RecipeRegistry
+[14:50:40] [Server thread/INFO]: [Nova] Loading item categories
+[14:50:40] [Server thread/INFO]: [Nova] Initializing BlockManager
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[32;1m |[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.1[0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[14:50:42] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
+[14:50:43] [Async Nova Worker - 22/INFO]: [Nova] Finished initializing RecipeRegistry
+[14:50:43] [Server thread/INFO]: [Nova] Registering Commands
+[14:50:51] [User Authenticator #2/INFO]: UUID of player Tony_Nan is 1a2f1f9f-a188-3176-b5b6-423fba835d62
+[14:50:51] [Server thread/INFO]: Tony_Nan joined the game
+[14:50:52] [Server thread/INFO]: Tony_Nan[/60.176.66.190:55251] logged in with entity id 198 at ([world]-6.729890467694911, 63.0, 653.6324805860786)
+[14:51:19] [Server thread/INFO]: Tony_Nan lost connection: Disconnected
+[14:51:19] [Server thread/INFO]: Tony_Nan left the game
+[14:51:29] [User Authenticator #3/INFO]: UUID of player Tony_Nan is 1a2f1f9f-a188-3176-b5b6-423fba835d62
+[14:51:30] [Server thread/INFO]: Tony_Nan joined the game
+[14:51:30] [Server thread/INFO]: Tony_Nan[/60.176.66.190:55260] logged in with entity id 381 at ([world]-8.773381411709384, 63.0, 654.9478608321411)
+[14:51:48] [Server thread/INFO]: Tony_Nan issued server command: /skin
+[14:52:05] [Server thread/INFO]: Tony_Nan issued server command: /skin update
+[14:54:48] [User Authenticator #4/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[14:54:48] [Server thread/INFO]: fox joined the game
+[14:54:48] [Server thread/INFO]: fox[/36.142.132.51:52556] logged in with entity id 1016 at ([world]101.29765855199867, 64.0, 419.32761130062556)
+[14:55:42] [Server thread/INFO]: [Nova] Done loading
+[14:57:26] [Server thread/INFO]: fox lost connection: Disconnected
+[14:57:26] [Server thread/INFO]: fox left the game
+[15:00:05] [User Authenticator #5/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:00:06] [Server thread/INFO]: fox joined the game
+[15:00:06] [Server thread/INFO]: fox[/36.142.132.51:52558] logged in with entity id 1849 at ([world]102.09308041687125, 64.0, 417.3451329101833)
+[15:01:35] [Server thread/INFO]: Tony_Nan has made the advancement [Acquire Hardware]
+[15:01:43] [Server thread/INFO]: Tony_Nan has made the advancement [Isn't It Iron Pick]
+[15:01:44] [Server thread/INFO]: fox was slain by Zombie
+[15:02:00] [Async Chat Thread - #0/INFO]: <Tony_Nan> 有些人来硬的了[m
+[15:02:16] [Async Chat Thread - #0/INFO]: <Tony_Nan> 有些人被僵尸杀死了[m
+[15:02:27] [Async Chat Thread - #0/INFO]: <Tony_Nan> 怎么回事[m
+[15:02:36] [Async Chat Thread - #0/INFO]: <fox> WOYEYOUTIE[m
+[15:04:26] [Server thread/INFO]: fox has made the advancement [We Need to Go Deeper]
+[15:04:33] [Server thread/INFO]: Tony_Nan has made the advancement [Not Today, Thank You]
+[15:05:18] [Server thread/INFO]: fox tried to swim in lava
+[15:05:53] [Server thread/INFO]: fox lost connection: Disconnected
+[15:05:53] [Server thread/INFO]: fox left the game
+[15:06:08] [User Authenticator #6/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:06:08] [Server thread/INFO]: fox joined the game
+[15:06:08] [Server thread/INFO]: fox[/36.142.132.51:52561] logged in with entity id 3777 at ([world]100.09282527462105, 64.0, 402.337034402847)
+[15:06:41] [Server thread/INFO]: fox tried to swim in lava
+[15:09:49] [Server thread/INFO]: fox tried to swim in lava
+[15:10:01] [Async Chat Thread - #1/INFO]: <Tony_Nan> 666[m
+[15:10:16] [Server thread/INFO]: Tony_Nan has made the advancement [Suit Up]
+[15:10:43] [Server thread/INFO]: fox lost connection: Disconnected
+[15:10:43] [Server thread/INFO]: fox left the game
+[15:14:51] [User Authenticator #7/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:14:51] [Server thread/INFO]: fox joined the game
+[15:14:51] [Server thread/INFO]: fox[/36.142.132.51:33559] logged in with entity id 5776 at ([world]81.58419977783998, 65.0, 466.82091586871616)
+[15:15:06] [Server thread/INFO]: fox lost connection: Disconnected
+[15:15:06] [Server thread/INFO]: fox left the game
+[15:16:35] [User Authenticator #8/INFO]: UUID of player ChrisWhite333 is eaa91dcd-38a8-308d-8751-6dfc15835d98
+[15:16:35] [Server thread/INFO]: ChrisWhite333 joined the game
+[15:16:35] [Server thread/INFO]: ChrisWhite333[/112.17.238.202:15459] logged in with entity id 6139 at ([world]115.94150041092477, 64.0, 348.4424424057881)
+[15:17:15] [Server thread/INFO]: ChrisWhite333 has made the advancement [We Need to Go Deeper]
+[15:17:28] [Server thread/INFO]: ChrisWhite333 was slain by Piglin
+[15:18:09] [Server thread/INFO]: ChrisWhite333 was slain by Zombie
+[15:18:23] [Server thread/INFO]: ChrisWhite333 issued server command: /gamerule keepInventory true
+[15:18:23] [Server thread/INFO]: [ChrisWhite333: Gamerule keepInventory is now set to: true]
+[15:18:48] [Server thread/INFO]: ChrisWhite333 issued server command: /gamerule keepInventory true
+[15:18:48] [Server thread/INFO]: [ChrisWhite333: Gamerule keepInventory is now set to: true]
+[15:18:54] [Server thread/INFO]: ChrisWhite333 issued server command: /gamerule keepInventory true
+[15:18:54] [Server thread/INFO]: [ChrisWhite333: Gamerule keepInventory is now set to: true]
+[15:19:03] [Server thread/INFO]: ChrisWhite333 issued server command: /gamerule keepInventory true
+[15:19:03] [Server thread/INFO]: [ChrisWhite333: Gamerule keepInventory is now set to: true]
+[15:19:14] [Server thread/INFO]: ChrisWhite333 tried to swim in lava
+[15:19:17] [User Authenticator #9/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:19:18] [Server thread/INFO]: fox joined the game
+[15:19:18] [Server thread/INFO]: fox[/36.142.132.51:33560] logged in with entity id 7247 at ([world]81.93392884356238, 65.0, 467.22446573623057)
+[15:19:53] [Server thread/INFO]: ChrisWhite333 lost connection: Disconnected
+[15:19:53] [Server thread/INFO]: ChrisWhite333 left the game
+[15:20:03] [Server thread/INFO]: Tony_Nan has made the advancement [Diamonds!]
+[15:23:21] [Server thread/INFO]: fox lost connection: Disconnected
+[15:23:21] [Server thread/INFO]: fox left the game
+[15:23:21] [Server thread/WARN]: handleDisconnection() called twice
+[15:25:12] [User Authenticator #10/INFO]: UUID of player ChrisWhite333 is eaa91dcd-38a8-308d-8751-6dfc15835d98
+[15:25:12] [Server thread/INFO]: ChrisWhite333 joined the game
+[15:25:12] [Server thread/INFO]: ChrisWhite333[/112.17.238.202:15474] logged in with entity id 8907 at ([world]105.01018755263198, 66.0, 351.647418915189)
+[15:25:25] [User Authenticator #11/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:25:26] [Server thread/INFO]: fox joined the game
+[15:25:26] [Server thread/INFO]: fox[/36.142.132.51:52566] logged in with entity id 9069 at ([world]-181.86552827124552, 82.0, 664.6856917811192)
+[15:27:30] [Server thread/INFO]: fox fell from a high place
+[15:29:28] [Server thread/INFO]: fox tried to swim in lava
+[15:31:55] [Server thread/INFO]: Tony_Nan tried to swim in lava
+[15:35:32] [Server thread/INFO]: Tony_Nan has made the advancement [We Need to Go Deeper]
+[15:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46989ms or 939 ticks behind
+[15:38:11] [User Authenticator #12/INFO]: UUID of player Tony_Nan is 1a2f1f9f-a188-3176-b5b6-423fba835d62
+[15:38:11] [User Authenticator #13/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:38:11] [Server thread/INFO]: Tony_Nan lost connection: Disconnected
+[15:38:14] [Server thread/INFO]: Tony_Nan left the game
+[15:38:14] [Server thread/INFO]: ChrisWhite333 lost connection: Disconnected
+[15:38:15] [Server thread/INFO]: ChrisWhite333 left the game
+[15:38:15] [Server thread/INFO]: fox lost connection: Disconnected
+[15:38:16] [Server thread/INFO]: fox left the game
+[15:38:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5edc71bb[id=1a2f1f9f-a188-3176-b5b6-423fba835d62,name=Tony_Nan,properties={},legacy=false] (/60.176.66.190:55538): [Nova] Something went wrong
+[15:38:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5edc71bb[id=1a2f1f9f-a188-3176-b5b6-423fba835d62,name=Tony_Nan,properties={},legacy=false] (/60.176.66.190:55538) lost connection: [Nova] Something went wrong
+[15:38:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5a70c582[id=1ca0e676-437f-38b4-9880-b5242051dc08,name=fox,properties={},legacy=false] (/36.142.132.51:33561): [Nova] Something went wrong
+[15:38:16] [Server thread/WARN]: handleDisconnection() called twice
+[15:38:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a70c582[id=1ca0e676-437f-38b4-9880-b5242051dc08,name=fox,properties={},legacy=false] (/36.142.132.51:33561) lost connection: [Nova] Something went wrong
+[15:38:30] [User Authenticator #14/INFO]: UUID of player ChrisWhite333 is eaa91dcd-38a8-308d-8751-6dfc15835d98
+[15:38:31] [Server thread/INFO]: ChrisWhite333 joined the game
+[15:38:31] [Server thread/INFO]: ChrisWhite333[/112.17.238.202:16687] logged in with entity id 14674 at ([world]104.78350569378392, 67.0, 383.4957980785603)
+[15:38:32] [User Authenticator #15/INFO]: UUID of player Tony_Nan is 1a2f1f9f-a188-3176-b5b6-423fba835d62
+[15:38:32] [Server thread/INFO]: Tony_Nan joined the game
+[15:38:32] [Server thread/INFO]: Tony_Nan[/60.176.66.190:55543] logged in with entity id 14675 at ([world_nether]-18.945570813773653, 92.0, 95.9724680842427)
+[15:38:43] [User Authenticator #16/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:38:43] [Server thread/INFO]: fox joined the game
+[15:38:46] [Server thread/INFO]: fox[/36.142.132.51:33564] logged in with entity id 14733 at ([world]-696.3109328861495, 62.07326432466507, -48.305972508532)
+[15:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8910ms or 178 ticks behind
+[15:39:01] [Server thread/INFO]: ChrisWhite333 lost connection: Disconnected
+[15:39:02] [Server thread/INFO]: ChrisWhite333 left the game
+[15:41:24] [Server thread/INFO]: Tony_Nan was impaled by Drowned
+[15:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47699ms or 953 ticks behind
+[15:44:16] [Server thread/INFO]: Tony_Nan lost connection: Timed out
+[15:44:16] [Server thread/INFO]: Tony_Nan left the game
+[15:44:16] [Server thread/INFO]: fox lost connection: Disconnected
+[15:44:16] [Server thread/INFO]: fox left the game
+[15:44:24] [User Authenticator #17/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[15:44:24] [Server thread/INFO]: fox joined the game
+[15:44:29] [Server thread/INFO]: fox[/36.142.132.51:52568] logged in with entity id 18368 at ([world]-321.8777770876183, 60.785201130428504, -594.9178511319681)
+[15:44:53] [User Authenticator #18/INFO]: UUID of player ChrisWhite333 is eaa91dcd-38a8-308d-8751-6dfc15835d98
+[15:44:53] [Server thread/INFO]: ChrisWhite333 joined the game
+[15:44:53] [Server thread/INFO]: ChrisWhite333[/112.17.238.202:16694] logged in with entity id 18589 at ([world]106.00240419710673, 67.0, 386.80310908873935)
+[15:45:03] [Server thread/INFO]: fox drowned
+[15:45:21] [Server thread/INFO]: ChrisWhite333 has made the advancement [Acquire Hardware]
+[15:46:26] [Server thread/INFO]: ChrisWhite333 has made the advancement [Isn't It Iron Pick]
+[15:46:54] [Server thread/INFO]: ChrisWhite333 lost connection: Disconnected
+[15:46:54] [Server thread/INFO]: ChrisWhite333 left the game
+[15:47:55] [Server thread/INFO]: fox was blown up by Creeper
+[15:49:16] [Server thread/INFO]: fox was shot by Skeleton
+[15:52:49] [Server thread/INFO]: fox was blown up by Creeper
+[15:56:44] [Server thread/INFO]: fox was shot by Pillager
